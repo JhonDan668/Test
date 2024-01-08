@@ -1,12 +1,27 @@
-<div 
-style="
-text-align: center;
-font-size: 12px;
-color:red;
-font-weight:bold;
-">
-注意事项
-</div>
+### 注意事项
 
-<img src="img/IMG_3542.gif">
+![avatar](/img/1.jpg)
+![avatar](/img/2.jpg)
 
+```
+按照上图所示下载后，请仅在AppStore中登录使用
+
+登录时请按图片选择 【其他选项】 ，【不升级】
+
+不要填写手机号码！不要填写手机号码！
+
+避免开启双重认证，否则密码会重新更改
+
+```
+
+```
+
+美区账号（已购火剑）：
+
+jermariocristi@gmail.com
+
+Aa123450!
+
+一般每隔30分钟会解锁一次，如无法登录请联系！
+
+```
