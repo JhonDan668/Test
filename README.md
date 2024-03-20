@@ -20,7 +20,7 @@
 
 jermariocristi@gmail.com
 
-Aa123450!
+Aa123450
 
 一般每隔30分钟会解锁一次，如无法登录请联系！
 
